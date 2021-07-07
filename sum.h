@@ -1,5 +1,5 @@
 //sum.h
-#prama once
+#pragma once
 
 int sum(int n);
 
